@@ -101,19 +101,6 @@ The largest latency reduction came from shrinking the I2S DMA buffer and tuning 
 
 *(Cost figures are indicative BOM-level estimates for the prototype, not a claim of retail pricing parity with the commercial products above.)*
 
-## Repository Structure
-
-```
-vocal-hud/
-├── README.md                        ← you are here
-├── docs/
-│   ├── hardware-schematic.md        ← pin mapping and wiring reference
-│   └── project-report.pdf           ← full academic project report (optional to include)
-├── firmware/
-│   └── vocal_hud_node/
-│       └── vocal_hud_node.ino        ← reference firmware (see Code Status)
-└── LICENSE
-```
 
 ## Code Status
 
